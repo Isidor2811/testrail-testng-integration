@@ -16,9 +16,9 @@ import java.util.List;
 
 public class BaseTest {
 
-    private static final String TEST_RAIL_LINK = "https://datsiuk.testrail.io/";
-    private static final String USER_NAME = "olegdatsiuk2811@gmail.com";
-    private static final String USER_PASSWORD = "azrail1313";
+    private static final String TEST_RAIL_LINK = "https://***.testrail.io/";
+    private static final String USER_NAME = "***.com";
+    private static final String USER_PASSWORD = "****";
     private static final String DATE_FORMAT = "yyyy-MM-dd HH:mm:ss";
 
     private static TestRail testRail;
